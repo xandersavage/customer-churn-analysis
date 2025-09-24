@@ -65,15 +65,19 @@ customer-churn-analysis/
 
 ---
 
-## 📷 Sample Visualizations
+## 📈 Visualizations
 
-| Age by Exited (Box Plot)               | Gender Distribution                 | Geography Distribution                 |
-| -------------------------------------- | ----------------------------------- | -------------------------------------- |
-| ![](images/age by exited box plot.png) | ![](images/gender distribution.png) | ![](images/geography distribution.png) |
+### Churn Rate
 
-| Churn Rate                 | Age & Gender by Churn                            | Geography vs Product Churn                 |
-| -------------------------- | ------------------------------------------------ | ------------------------------------------ |
-| ![](images/churn rate.png) | ![](images/age gender distribution by churn.png) | ![](images/geography vs product churn.png) |
+![](images/churn rate.png)
+
+### Age by Exited (Box Plot)
+
+![](images/age by exited box plot.png)
+
+### Geography vs Product Churn
+
+![](images/geography vs product churn.png)
 
 _See the `images/` folder for more plots and visualizations._
 
