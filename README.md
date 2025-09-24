@@ -69,15 +69,15 @@ customer-churn-analysis/
 
 ### Churn Rate
 
-![](images/churn rate.png)
+<img width="955" height="525" alt="churn rate" src="https://github.com/user-attachments/assets/33ead69a-29bd-415f-b1d9-df8f9c6667b4" />
 
 ### Age by Exited (Box Plot)
 
-![](images/age by exited box plot.png)
+<img width="955" height="525" alt="age by exited box plot" src="https://github.com/user-attachments/assets/502b43df-c9a6-482e-8149-328e67e99d35" />
 
 ### Geography vs Product Churn
 
-![](images/geography vs product churn.png)
+<img width="955" height="525" alt="geography vs product churn" src="https://github.com/user-attachments/assets/f80eeab7-7777-4511-be8b-9346d12076af" />
 
 _See the `images/` folder for more plots and visualizations._
 
@@ -106,7 +106,7 @@ This project is EDA-focused, but future extensions could include:
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/customer-churn-analysis.git
+git clone https://github.com/xandersavage/customer-churn-analysis.git
 cd customer-churn-analysis
 pip install -r requirements.txt
 
