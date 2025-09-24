@@ -1,0 +1,1 @@
+pip freeze | grep -E "pandas|numpy|seaborn|matplotlib|scikit-learn|ydata-profiling|plotly|kaleido" > requirements.txt
